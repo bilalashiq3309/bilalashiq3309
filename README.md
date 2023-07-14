@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Muhammad Bilal Ashiq
+- 👀 I’m interested in different types of Computer programming languages, like C++, python.
+- 🌱 I’m currently learning data Structure and Algorithms (DSA) , free lancing, wordpress.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- https://www.linkedin.com/in/methebilalashiq/
