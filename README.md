@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Muhammad Bilal Ashiq
 - 👀 I’m interested in different types of Computer programming languages, like C++, python, Assembly Language.
-- 🌱 I’m currently learning data Structure and Algorithms (DSA) , free lancing, wordpress.
+- 🌱 I’m currently studying BS Computer Science in Fast National University of Computer and Emergong Sciences (FAST-NUCES-CFD)
+- LinkedIn Profile is givwn here, you can see my skilsss and everything here
 - https://www.linkedin.com/in/methebilalashiq/
