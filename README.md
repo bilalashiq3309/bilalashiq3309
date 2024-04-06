@@ -1,5 +1,12 @@
-- 👋 Hi, I’m Muhammad Bilal Ashiq
-- 👀 I’m interested in different types of Computer programming languages, like C++, python, Assembly Language.
-- 🌱 I’m currently studying BS Computer Science in Fast National University of Computer and Emergong Sciences (FAST-NUCES-CFD)
-- LinkedIn Profile is givwn here, you can see my skilsss and everything here
-- https://www.linkedin.com/in/methebilalashiq/
+Myself, 𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐁𝐢𝐥𝐚𝐥 𝐀𝐬𝐡𝐢𝐪, a student of Computer Science (𝗕𝗦 𝗖𝗦)  in National University of Computer and emerging Sciences, Faisalabad (𝐅𝐚𝐬𝐭 𝐍𝐔𝐂𝐄𝐒 𝐂𝐅𝐃).
+
+• C++ Programmer
+• Python Programmer
+• Linux
+• Assembly Language Programming
+• (MS) Microsoft office
+• Free Lancer
+• Web Developer
+• Photographer/Editor 
+• Videographer/Editor
+• Management Skills
